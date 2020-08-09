@@ -8,7 +8,7 @@
 > Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus.
 > At this time, there are no specific vaccines or treatments for COVID-19. The best way to prevent and slow down transmission is be **well informed** about the COVID-19 virus. [who.int](https://www.who.int/health-topics/coronavirus#tab=tab_1)
 
-The goal of this project is not to build *just another dashboard*. But, to focus on collaborative plot ideas, and a mobile friendly UI/UX. Feel free to open an issue requesting a type of plot, table, or any feature for that matter.
+The goal of this project is not to build *just another dashboard*. But, to focus on collaborative plot ideas, and a mobile friendly UI/UX.
 
 ## Getting Started
 
@@ -16,7 +16,6 @@ The goal of this project is not to build *just another dashboard*. But, to focus
 
 * Python; [pyenv](https://github.com/pyenv/pyenv) recommended
 * Pip
-
 
 ## Built With
 
